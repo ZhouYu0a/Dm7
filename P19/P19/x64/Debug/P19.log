@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\user\Desktop\Dm7\P19\P19\main.c(1,10): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+C:\Users\user\Desktop\Dm7\P19\P19\main.c(18,2): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  P19.vcxproj -> C:\Users\user\Desktop\Dm7\P19\x64\Debug\P19.exe
